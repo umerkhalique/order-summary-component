@@ -17,9 +17,6 @@ body{
     width: 100vw;
 }
 .main-div{
-    /* position: absolute;
-    left: 490px;
-    top: 30px; */
     position: absolute;
     top: 50%;
     left: 50%;
